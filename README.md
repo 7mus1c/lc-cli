@@ -4,27 +4,27 @@
 
 ```bash
 # npm
-$ npm install -g lc-cli
+$ npm install -g lic-cli
 
 # or yarn
 
-$ yarn global add lc-cli
+$ yarn global add lic-cli
 ```
 
 ### 借助 npx
 
 ```bash
 # 创建模版
-$ npx create lc-cli <projectName> [-t | --template]
+$ npx create lic-cli <projectName> [-t | --template]
 # 示例
-$ npx create lc-cli hello-cli -template react-ts-template
+$ npx create lic-cli hello-cli -template react-ts-template
 ```
 
 ## 使用
 
 ```bash
 # 创建模版
-$ lc-cli create <projectName> [-t | --template]
+$ lic-cli create <projectName> [-t | --template]
 # 示例
-$ lc-cli create hello-cli -t react-ts-template
+$ lic-cli create hello-cli -t react-ts-template
 ```

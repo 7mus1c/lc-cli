@@ -1,11 +1,11 @@
 #! /usr/bin/env node
 /*
- * @Description: lc-cli 1.执行 create 2.选择框架 3.下载模板 4.进入项目目录 5.安装依赖
+ * @Description: lic-cli 1.执行 create 2.选择框架 3.下载模板 4.进入项目目录 5.安装依赖
  * @Version: 1.0
  * @Autor: Li Cheng
  * @Date: 2024-08-06 17:55:56
  * @LastEditors: Li Cheng
- * @LastEditTime: 2024-08-07 00:08:38
+ * @LastEditTime: 2024-08-12 14:38:04
  */
 
 import { Command } from "commander";
